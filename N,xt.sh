@@ -2,11 +2,11 @@ node .bin/www
 {{@// /*** Multi line commit mention; */
 {
   {{
-    {[Any_Cores]:}: {[Processor_Min_Value]};
+    {[Any_Cores]:}: {[Processor_Min_Value]};*\".<%
   }};. }
 {
   {{
-    {[ALL_CPUs]:}: {[Processor_Max_Value]};
+    {[ALL_CPUs]:}: {[Processor_Max_Value]};*\".<%
   }};. }
 {
   {
