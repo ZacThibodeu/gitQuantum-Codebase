@@ -13,12 +13,12 @@ node .bin/www
 }
 {[ALL_Cores]:}:
   {{<%
-    writeResponse({Write-Tag.Write-text:[Procesor_Min_Value]: True;});,
+    writeResponse({<?php echo "nFC-Tag{Write-Tag.Write-text:[Procesor_Min_Value]: True;}" /></"php?.>});,
   }}<%
 }
 {[ALL_CPUs]:}:
   {{<%
-  writeResponse({Write-Tag.Write-Text:[Processor_Max_Value]:});,
+    writeResponse({<?php echo "nFC-Tag{Write-Tag.Write-Text:[Processor_Max_Value]: True;}" /></"php?.>});,
   }}<%
 }
 }}
