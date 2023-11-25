@@ -2,7 +2,7 @@ node .bin/www
 {{@// /*** Multi line commit mention; */
 {
   {{
-    {[ALL_Cores]:}: {[Processor_Min_Value]};
+    {[Any_Cores]:}: {[Processor_Min_Value]};
   }};. }
 {
   {{
@@ -11,14 +11,14 @@ node .bin/www
 {
   {
 }
-{[ALL_Cores]:}:
-  {{<%
-    writeResponse({Write-Tag.Write-text:[Procesor_Min_Value]: True;});,
-  }}<%
+{[Any_Cores]:}:
+  {{
+    {[<%."/*writeResponse({<?php echo "nFC-Tag.{Write-Tag.Write-text:[Procesor_Min_Value]: True;}*\.js$/"?.></php?>});,.<%]:}: {[True]}; = {[Global usage Locked]:}: *{[1: Enable: True: Set;]:}
+  }}
 }
 {[ALL_CPUs]:}:
-  {{<%
-  writeResponse({Write-Tag.Write-Text:[Processor_Max_Value]:});,
-  }}<%
+  {{
+    {[<%."/*writeResponse({<?php echo "nFC-Tag.{Write-Tag.Write-text:[Procesor_Min_Value]: True;}*\.js$/"?.></php?>});,.<%]:}: {[True]}; = {[Global usage Locked]:}: *{[1: Enable: True: Set;]:}
+  }}
 }
 }}
