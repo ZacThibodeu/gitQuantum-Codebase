@@ -10,7 +10,7 @@ node .bin/www
   }};. }
 {
   {
-{
+}
 {[ALL_Cores]:}:
   {{<%
     writeResponse({Write-Tag.Write-text:[Procesor_Min_Value]: True;});,
