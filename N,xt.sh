@@ -13,12 +13,12 @@ node .bin/www
 }
 {[Any_Cores]:}:
   {{
-    {[<%."/*writeResponse({<?php echo "nFC-Tag.{Write-Tag.Write-text:[Procesor_Min_Value]: True;}*\.js$/"?.></php?>});,.<%]:}: {[True]}; = {[Global usage Locked]:}: *{[1: Enable: True: Set;]:}*\".<%]:};
-  }}; {
+    <%."/*writeResponse{[<%."/*writeResponse({<?php echo "nFC-Tag.{Write-Tag.Write-text:[Procesor_Min_Value]: True;}*\.js$/"?.></php?>});,.<%]:}: {[True]}; = {[Global usage Locked]:}: *{[1: Enable: True: Set;]:}*\".<%]:};
+  }};. {
 }
 {[ALL_CPUs]:}:
   {{
-    {[<%."/*writeResponse({<?php echo "nFC-Tag.{Write-Tag.Write-text:[Procesor_Min_Value]: True;}*\.js$/"?.></php?>});,.<%]:}: {[True]}; = {[Global usage Locked]:}: *{[1: Enable: True: Set;]:}*\".<%]:};
-  }}; {
+    <%."/*writeResponse{[<%."/*writeResponse({<?php echo "nFC-Tag.{Write-Tag.Write-text:[Procesor_Min_Value]: True;}*\.js$/"?.></php?>});,.<%]:}: {[True]}; = {[Global usage Locked]:}: *{[1: Enable: True: Set;]:}*\".<%]:};
+  }};. {
 }
 }}
