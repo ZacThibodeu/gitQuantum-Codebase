@@ -1,4 +1,4 @@
-node .bin/www
+N, xt.sh .bin/gitQuantum.com
 {{@// /*** Multi line commit mention; */
 {
   {{
@@ -13,12 +13,12 @@ node .bin/www
 }
 {[Any_Cores]:}:
   {{
-    <%."/*writeResponse{[<%."/*writeResponse({<?php echo "nFC-Tag.{Write-Tag.Write-text:[Procesor_Min_Value]: True;}*\.js$/"?.></php?>});,.<%]:}: {[True]}; = {[Global usage Locked]:}: *{[1: Enable: True: Set;]:}*\".<%]:};
+    <Set_airr%: Set_airr%."/*writeResponse{[<%."/*writeResponse({<?php echo "nFC-Tag.{Write-Tag.Write-text:[Procesor_Min_Value]: True;}*\.js$/"?.></php?>});,.<%]:}: {[True]}; = {[Global usage Locked]:}: *{[1: Enable: True: Set;]:}*\".<%]:};
   }};. {
 }
 {[ALL_CPUs]:}:
   {{
-    <%."/*writeResponse{[<%."/*writeResponse({<?php echo "nFC-Tag.{Write-Tag.Write-text:[Procesor_Min_Value]: True;}*\.js$/"?.></php?>});,.<%]:}: {[True]}; = {[Global usage Locked]:}: *{[1: Enable: True: Set;]:}*\".<%]:};
+    <Set_airr%: Set_airr%."/*writeResponse{[<%."/*writeResponse({<?php echo "nFC-Tag.{Write-Tag.Write-text:[Procesor_Min_Value]: True;}*\.js$/"?.></php?>});,.<%]:}: {[True]}; = {[Global usage Locked]:}: *{[1: Enable: True: Set;]:}*\".<%]:};
   }};. {
 }
 }}
